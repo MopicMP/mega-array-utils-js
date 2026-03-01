@@ -1,0 +1,26 @@
+{
+  "name": "mega-array-utils-js",
+  "version": "1.0.0",
+  "description": "Mega array unique, chunk, shuffle, flatten for js",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "array",
+    "js",
+    "mega",
+    "tool",
+    "utility",
+    "utils"
+  ],
+  "author": "raccoonette",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MopicMP/mega-array-utils-js.git"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
